@@ -25,6 +25,7 @@ puts snacks
 def breakfast(meal_choice = "frosted flakes")
   "Morning is the best time for #{meal_choice}"
 end
+breakfast 
 
 
   
